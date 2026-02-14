@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package tareajava;
+package Map;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -12,7 +12,7 @@ import java.util.Scanner;
  * @author Josue
  */
 
-public class Tareajava {
+public class Map {
 
  public static void main(String[] args) {
         Scanner leer = new Scanner(System.in);
@@ -64,3 +64,4 @@ public class Tareajava {
         System.out.println("--- FIN DEL PROGRAMA ---"); 
     }
 }
+
